@@ -5,4 +5,4 @@ x('hello')
 function y(test1) {
     console.log(test1)
 }
-y('world')
+y('world123456')
